@@ -50,5 +50,3 @@ If you're interested in contributing, please follow the standard Fork & Pull Req
 - **Jose Ramirez** - *Initial work* - [nowaymyname27](https://github.com/nowaymyname27)
 
 ---
-
-Remember to replace "Your Name" and "YourUsername" with your actual name and GitHub username.
