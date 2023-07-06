@@ -28,13 +28,15 @@ cd Eight-Puzzle-Solver
 After you've cloned the project, you can run the program with your desired puzzle configuration:
 
 ```python
-Using an interactive window simply type: eight_puzzle(board, algorithm, heuristic)
+#Using an interactive window simply type:
 
-board: A string that tells the program the initial state of a board. Here is an example "123506478", it's important to choose a string that can be solved. Not all initial states have a soultion.
+eight_puzzle(board, algorithm, heuristic)
 
-algorithm: A string that tells the function which algorithm to use for finding a solution
+#board: A string that tells the program the initial state of a board. Here is an example "123506478", it's important to choose a string that can be solved. Not all initial states have a soultion.
 
-heuristic: A heuristic function used by some of the algorithms
+#algorithm: A string that tells the function which algorithm to use for finding a solution
+
+#heuristic: A heuristic function used by some of the algorithms
 ```
 
 This code will print the sequence of moves from the initial state to the solution. Note that the actual sequence will depend on the search algorithm used. For example, BFS might give a different sequence than A* search.
