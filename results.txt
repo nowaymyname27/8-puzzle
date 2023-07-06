@@ -56,11 +56,11 @@ puzzles with 18-move optimal solutions
 algorithm                             num. solved    avg. moves    avg. states tested
 --------------------------------------------------------------------------------------
 Greedy (heuristic h1)                     6          136.3 moves  2237.8 states tested
-Greedy (heuristic h2)                     10         133.4 moves  272.1 states tested
+Greedy (heuristic h2)                     10         76.2 moves  725.7 states tested
 # Greedy with any other heuristics
 
 A* (heuristic h1)                         10         18.0 moves   1602.0 states tested
-A* (heuristic h2)                         10         18.0 moves   613.4 states tested
+A* (heuristic h2)                         10         18.0 moves   218.3 states tested
 # Greedy with any other heuristics
 
 
@@ -69,11 +69,11 @@ puzzles with 21-move optimal solutions
 algorithm                             num. solved    avg. moves    avg. states tested
 --------------------------------------------------------------------------------------
 Greedy (heuristic h1)                     5          104.6 moves  4172.6 states tested
-Greedy (heuristic h2)                     10         167.4 moves  308. states tested
+Greedy (heuristic h2)                     10         75.4 moves   370.7 states tested
 # Greedy with any other heuristics
 
 A* (heuristic h1)                         10         21.0 moves   6301.7 states tested
-A* (heuristic h2)                         10         21.0 moves   1063.0 states tested
+A* (heuristic h2)                         10         21.0 moves   482.3 states tested
 # Greedy with any other heuristics
 
 
@@ -82,11 +82,11 @@ puzzles with 24-move optimal solutions
 algorithm                             num. solved    avg. moves    avg. states tested
 --------------------------------------------------------------------------------------
 Greedy (heuristic h1)                     6          123.6 moves  2856.16 states tested
-Greedy (heuristic h2)                     10         145.6 moves  252.5 states tested
+Greedy (heuristic h2)                     10         75.2 moves   593.3 states tested
 # Greedy with any other heuristics
 
 A* (heuristic h1)                         4          24.0 moves   23275.5 states tested
-A* (heuristic h2)                         10         24.2 moves   4860.7 states tested
+A* (heuristic h2)                         10         24.0 moves   1065.5 states tested
 # Greedy with any other heuristics
 
 puzzles with 27-move optimal solutions
@@ -94,17 +94,12 @@ puzzles with 27-move optimal solutions
 algorithm                             num. solved    avg. moves    avg. states tested
 --------------------------------------------------------------------------------------
 Greedy (heuristic h1)                     4          197.5 moves  4285.5 states tested
-Greedy (heuristic h2)                     10         158.0 moves  286.4 states tested
+Greedy (heuristic h2)                     10         90.8 moves   693.9 states tested
 # Greedy with any other heuristics
 
 A* (heuristic h1)                         0          0 moves           0 states tested
-A* (heuristic h2)                         5          27.o moves   12584.6 states tested
+A* (heuristic h2)                         10          27.0 moves   50430 states tested
 # Greedy with any other heuristics
-
-
-
-
-
 
 
 
